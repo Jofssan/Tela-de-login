@@ -85,6 +85,11 @@ body * {
 
 }
 
+.textfield input.invalid{
+    border:  1.5px solid red !important;
+}
+
+
 .textfield > label{
     color: #f0ffffde;
     margin-bottom: 10px;
